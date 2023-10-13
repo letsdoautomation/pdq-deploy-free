@@ -1,1 +1,1 @@
-# pdq-deploy-free
+# pdq-deploy
