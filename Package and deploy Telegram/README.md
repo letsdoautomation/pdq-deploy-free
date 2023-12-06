@@ -1,4 +1,4 @@
-# PDQ DEPLOY: Package and deploy Telegram
+# PDQ DEPLOY FREE: Package and deploy Telegram
 ### Documentation and download
 Download link:
 

@@ -1,4 +1,4 @@
-# PDQ DEPLOY: Package and deploy Ryver
+# PDQ DEPLOY FREE: Package and deploy Ryver
 ### Documentation and download
 Download link:
 

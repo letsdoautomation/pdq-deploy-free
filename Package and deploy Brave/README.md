@@ -1,4 +1,4 @@
-# PDQ DEPLOY: Package and deploy Brave
+# PDQ DEPLOY FREE: Package and deploy Brave
 ### Documentation and download
 Download link:
 

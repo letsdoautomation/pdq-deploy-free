@@ -1,4 +1,4 @@
-# PDQ DEPLOY: Package and deploy Spotify
+# PDQ DEPLOY FREE: Package and deploy Spotify
 ### Documentation and download
 Download link:
 
