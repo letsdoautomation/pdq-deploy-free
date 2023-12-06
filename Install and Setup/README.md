@@ -18,6 +18,7 @@ Documentation link:
         * Windows Defender Firewall: Allow inbound file and printer sharing exception
         * Windows Defender Firewall: Allow ICMP exceptions
             * Allow inbound echo request
+* Install PDQ Deploy
 
 ### My enviroment setup
 My windows server setup: <br />
