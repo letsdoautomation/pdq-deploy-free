@@ -14,7 +14,11 @@ WiX build MSI package command:
 wix build .\Brave.wxs
 ```
 
-# Related videos
+### My enviroment setup
+<b>PDQ setup:</b> <br />
+
+[PDQ Deploy Free: Install and Setup](https://youtu.be/jB6SOhKFoHg) <br />
+
 
 <b>WiX Toolset 4 CLI</b>
 
