@@ -9,10 +9,6 @@ Silent switches:
 /S
 ```
 
-```powershell
-ni "HKLM:\SOFTWARE\Microsoft\Active Setup\Installed Components\runWinRAR" | New-ItemProperty -Name "StubPath" -Value ('REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v runWinRAR /t REG_SZ /d "{0}\WinRAR\WinRAR.exe"' -f $env:ProgramFiles)
-```
-
 ### My enviroment setup
 <b>PDQ setup:</b> <br />
 
